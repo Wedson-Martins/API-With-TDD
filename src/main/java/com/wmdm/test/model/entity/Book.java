@@ -1,4 +1,4 @@
-package com.wmdm.test.model;
+package com.wmdm.test.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
